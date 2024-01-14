@@ -1,4 +1,7 @@
 ![Alt text](i-1.webp)
+
+
+
     to delet remot branch 
     git push origin :branch_ name
     to delet local branch
